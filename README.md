@@ -52,23 +52,7 @@
 
 ---
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=TheLorvex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TheLorvex&theme=tokyonight&hide_border=true&background=0d1117" height="170"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/TheLorvex/TheLorvex/output/github-contribution-grid-snake.svg" />
-
-<br><br>
-
-### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=js,nodejs,discord,github,vscode" />
-
-<br><br>
-
+## 🌐 Saygılar
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:00d4ff&height=120&section=footer"/>
 
 </div>
