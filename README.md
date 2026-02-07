@@ -52,14 +52,11 @@
 
 ---
 
-### 💬 Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
-
-## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/thelorvex/thelorvex/output/github-contribution-grid-snake.svg" />
