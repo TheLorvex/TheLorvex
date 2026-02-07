@@ -61,16 +61,8 @@
 
 ### ⚡ Animated Activity Bar
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICI_ADIN&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thelorvex&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
----
-
-### 🌌 Animated Wave
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
-</p>
-
 
 ---
 
