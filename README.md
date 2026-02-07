@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KULLANICIADIN&label=Profile+Views&color=5865F2&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=thelorvex&label=Profile+Views&color=5865F2&style=flat" />
 </p>
 
 ---
@@ -29,22 +29,22 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thelorvex&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelorvex&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KULLANICIADIN&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=thelorvex&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🌐 Contact
 <p align="center">
-  <a href="https://github.com/KULLANICIADIN">
+  <a href="https://github.com/thelorvex">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Discord-lorvex-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
