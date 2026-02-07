@@ -51,9 +51,9 @@
 </p>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:00d4ff&height=120&section=footer"/>
 <h1 align="center">
 Teşekkürler!
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:00d4ff&height=120&section=footer"/>
-
 </div>
 
