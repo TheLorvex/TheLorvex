@@ -53,30 +53,7 @@
 ---
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=70&lines=Lorvex;Discord+Bot+Developer;Automation+%26+Creative+Systems" />
-</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,discord,github,vscode&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=tokyonight&hide_border=true&background=00000000" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=00f7ff&style=flat"/>
-</p>
 
 ---
 
