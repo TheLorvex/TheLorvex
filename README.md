@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thelorvex&label=Profile+Views&color=5865F2&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=TheLorvex&label=Profile+Views&color=5865F2&style=flat" />
 </p>
 
 ---
@@ -29,22 +29,22 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thelorvex&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelorvex&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheLorvex&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLorvex&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thelorvex&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=TheLorvex&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🌐 Contact
 <p align="center">
-  <a href="https://github.com/thelorvex">
+  <a href="https://github.com/TheLorvex">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Discord-thelorvex-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -59,7 +59,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thelorvex/thelorvex/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/thelorvex/TheLorvex/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
