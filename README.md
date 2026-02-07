@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Lorvex
+  Hi 👨‍💻 Lorvex
 </h1>
 
 <p align="center">
