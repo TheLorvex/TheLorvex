@@ -47,7 +47,7 @@
   <a href="https://github.com/thelorvex">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Discord-lorvex-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-thelorvex-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 ---
@@ -58,11 +58,38 @@
 
 ---
 
-### 🌀 Animated Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thelorvex/thelorvex/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
 
----
+<!-- Neon Grid Background -->
+<img src="https://svgshare.com/i/15hA.svg" width="100%" />
 
-<h3 align="center">“Code is like humor. When you have to explain it, it’s bad.”</h3>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Lorvex;Discord+Bot+Developer;Node.js+Enjoyer;Welcome+to+my+Cyber+World" />
+
+<br><br>
+
+> **"Code is like humor. When you have to explain it, it's bad."**  
+> *— Me*
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=TheLorvex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TheLorvex&theme=tokyonight&hide_border=true&background=0d1117" height="170"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/TheLorvex/TheLorvex/output/github-contribution-grid-snake.svg" />
+
+<br><br>
+
+### 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=js,nodejs,discord,github,vscode" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:00d4ff&height=120&section=footer"/>
+
+</div>
+
