@@ -58,10 +58,6 @@
 
 ---
 
----
-
-
-
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad." alt="dev quote" />
 
@@ -75,10 +71,3 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Teşekkürler!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
-
-</div>
-Teşekkürler!
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:00d4ff&height=120&section=footer"/>
-
-</div>
-
