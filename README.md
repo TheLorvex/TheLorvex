@@ -1,4 +1,4 @@
-<h1 align="center">👋 Merhaba, ben Lorvex</h1>
+<h1 align="center">👨‍💻Lorvex</h1>
 <h3 align="center">Discord Bot Developer • Node.js • Discord.js</h3>
 
 <p align="center">
