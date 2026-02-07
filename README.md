@@ -59,9 +59,10 @@
 
 ---
 
-### ⚡ Animated Activity Bar
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thelorvex&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://raw.githubusercontent.com/KULLANICI_ADIN/KULLANICI_ADIN/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
