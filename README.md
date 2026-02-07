@@ -52,12 +52,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Merhaba+Ben+Lorvex;Discord+Bot+Developer;Public+Sunu
-
-
----
-
 <h1 align="center">
 Teşekkürler!
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:00d4ff&height=120&section=footer"/>
