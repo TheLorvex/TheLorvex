@@ -55,3 +55,14 @@
 <p align="center">
   <i>“Good code is not just working — it's scalable, secure and clean.”</i>
 </p>
+
+---
+
+### 🌀 Animated Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KULLANICI_ADIN/KULLANICI_ADIN/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h3 align="center">“Code is like humor. When you have to explain it, it’s bad.”</h3>
