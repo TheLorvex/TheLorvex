@@ -51,34 +51,98 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="900"/>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&pause=1000&color=00000000&center=true&vCenter=true&width=1&height=1&lines=." />
-</p>
+<!DOCTYPE html>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00000000&text_color=00000000&icon_color=00F7FF"/>
-</p>
+.number {
+font-size: 28px;
+font-weight: bold;
+color: #38bdf8;
+}
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00000000&sideLabels=00000000&dates=00000000"/>
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true"/>
-</p>
+.label {
+font-size: 14px;
+color: #94a3b8;
+margin-top: 6px;
+}
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="900"/>
-</p>
 
+.bar-container {
+margin-top: 30px;
+text-align: left;
+}
+
+
+.bar-label {
+font-size: 14px;
+margin-bottom: 6px;
+color: #cbd5f5;
+}
+
+
+.bar {
+width: 100%;
+height: 12px;
+background: rgba(148, 163, 184, 0.15);
+border-radius: 999px;
+overflow: hidden;
+margin-bottom: 14px;
+}
+
+
+.fill {
+height: 100%;
+background: linear-gradient(90deg, #22c55e, #38bdf8);
+width: 0;
+border-radius: 999px;
+animation: load 2s forwards;
+}
+
+
+@keyframes load {
+to { width: var(--w); }
+}
+
+
+@keyframes fadeIn {
+from { opacity: 0; transform: translateY(20px); }
+to { opacity: 1; transform: translateY(0); }
+}
+
+
+.footer {
+margin-top: 30px;
+font-size: 13px;
+color: #64748b;
+animation: fadeIn 2.4s ease forwards;
+}
+
+
+canvas {
+position: absolute;
+inset: 0;
+z-index: -2;
+}
+</style>
+</head>
+<body>
+<canvas id="bg"></canvas>
+
+
+<div class="card">
+<div class="glow"></div>
+
+
+<h1>🎮 Lorvex Dev</h1>
+<div class="subtitle">Full Stack • Discord Bots • Game Systems</div>
+
+
+<div class="stats">
+<div class="stat">
+<div class="number">25+</div>
+<div class="
 
 
 
