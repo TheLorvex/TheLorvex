@@ -60,7 +60,7 @@
 
 ### 🌀 Animated Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KULLANICI_ADIN/KULLANICI_ADIN/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/thelorvex/thelorvex/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
