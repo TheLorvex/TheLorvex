@@ -52,26 +52,6 @@
 
 ---
 
-<p align="center">
-  <i>“Good code is not just working — it's scalable, secure and clean.”</i>
-</p>
-
----
-
-<div align="center">
-
-<!-- Neon Grid Background -->
-<img src="https://svgshare.com/i/15hA.svg" width="100%" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Lorvex;Discord+Bot+Developer;Node.js+Enjoyer;Welcome+to+my+Cyber+World" />
-
-<br><br>
-
-> **"Code is like humor. When you have to explain it, it's bad."**  
-> *— Me*
-
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=TheLorvex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
